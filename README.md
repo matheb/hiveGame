@@ -3,8 +3,8 @@
 This is an implementation of a game from the late 90's. The user has a board full of hexagons, which are coloured or not.
 The aim is, to make every small hexagon white by clicking. Soing so, the user can enter the next level.
 
-![cover](assets/start.png)
-![board](assets/board.png)
+![cover](assets/start.PNG) 
+![board](assets/board.PNG) 
 
 ## Usage
 
